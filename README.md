@@ -9,3 +9,4 @@ HR Dashboard using Exel
 
 HR Dashboard using Power Bi
 
+<img src="https://github.com/gayani7/HR-Dashboard-Development-using-Excel-and-Power-BI/blob/main/HR%20dashboard_exel.png" alt="image alt" width="800"/>
